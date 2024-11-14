@@ -13,5 +13,6 @@ def add_numbers (a , b ) :
 
     result = add_numbers ( num1 , num2 )
     print ( f"The result of adding { num1 } and { num2 } is: { result }")
+    print(result * 2)  #added a change
 # Run the task
 introduction_task ()
